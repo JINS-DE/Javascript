@@ -66,5 +66,6 @@ console.log(multiplyAll(3,4,5,6,7,8,9,10));
 })(4,5)
 
 console.log(typeof multiply);
+
 // 좌측에 있는게 오른쪽과 같은 파일인가 ? multiply가 Object이냐?
 console.log(multiply instanceof Object);
