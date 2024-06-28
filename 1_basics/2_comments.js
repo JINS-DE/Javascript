@@ -2,6 +2,7 @@
 console.log('Hello World'); // 이거는 출력
 
 /**
+ * 단축키 alt + shift + a
  * 이렇게 하면
  * 코멘틀르 여러 줄을 
  * 작성 할 수 있습니다. 
